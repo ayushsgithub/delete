@@ -1,3 +1,12 @@
+
+
+## [1.2.2](https://github.com/ayushsgithub/delete/compare/1.2.1...1.2.2) (2023-10-15)
+
+
+### Bug Fixes
+
+* last fix ([48670f8](https://github.com/ayushsgithub/delete/commit/48670f8046446b3d66464c2c0dc90d8ff72fb75b))
+
 ## [1.2.1](https://github.com/ayushsgithub/delete/compare/1.2.0...1.2.1) (2023-10-15)
 
 
