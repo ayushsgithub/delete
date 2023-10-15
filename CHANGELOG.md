@@ -1,4 +1,6 @@
+# Changelog
 
+> All notable changes to this project will be documented in this file.
 
 ## [1.2.0](https://github.com/ayushsgithub/delete/compare/1.1.2...1.2.0) (2023-10-15)
 
@@ -6,10 +8,6 @@
 ### Features
 
 * css linked to html and provided heading for changelog file ([ef8add2](https://github.com/ayushsgithub/delete/commit/ef8add2030215f6ed30d5aa93ffd044cc57dd07a))
-
-# Changelog
-
-All notable changes to this project will be documented in this file.
 
 ## [1.1.2](https://github.com/ayushsgithub/delete/compare/1.1.1...1.1.2) (2023-10-15)
 
