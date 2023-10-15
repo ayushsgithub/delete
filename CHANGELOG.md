@@ -1,5 +1,7 @@
 
 
+## [1.1.2](https://github.com/ayushsgithub/delete/compare/1.1.1...1.1.2) (2023-10-15)
+
 ## [1.1.1](https://github.com/ayushsgithub/delete/compare/1.1.0...1.1.1) (2023-10-15)
 
 
