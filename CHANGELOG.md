@@ -1,15 +1,9 @@
-
-
 ## [1.2.1](https://github.com/ayushsgithub/delete/compare/1.2.0...1.2.1) (2023-10-15)
 
 
 ### Bug Fixes
 
 * commands mod ([7e3591e](https://github.com/ayushsgithub/delete/commit/7e3591eb7a854f8cc8b7eaab84e05cadefca2727))
-
-# Changelog
-
-> All notable changes to this project will be documented in this file.
 
 ## [1.2.0](https://github.com/ayushsgithub/delete/compare/1.1.2...1.2.0) (2023-10-15)
 
