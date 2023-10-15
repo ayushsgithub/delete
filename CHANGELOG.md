@@ -1,4 +1,6 @@
+# Changelog
 
+All notable changes to this project will be documented in this file.
 
 ## [1.1.2](https://github.com/ayushsgithub/delete/compare/1.1.1...1.1.2) (2023-10-15)
 
