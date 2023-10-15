@@ -1,5 +1,12 @@
 
 
+## [1.1.1](https://github.com/ayushsgithub/delete/compare/1.1.0...1.1.1) (2023-10-15)
+
+
+### Bug Fixes
+
+* readme line added ([b0ce3bf](https://github.com/ayushsgithub/delete/commit/b0ce3bf986c8daeaa752a5a8d58579ad978c410f))
+
 ## 1.1.0 (2023-10-15)
 
 
